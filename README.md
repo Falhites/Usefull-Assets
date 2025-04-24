@@ -34,6 +34,14 @@ Before submitting:
 
 ## 📚 Folder Structure
 
+    assets/
+    ├── images/ 
+    ├── icons/ 
+    ├── logos/ 
+    ├── videos/ 
+    ├── audio/ 
+    ├── fonts/ 
+    └── templates/
 
 > Feel free to expand this structure based on the community’s needs.
 
